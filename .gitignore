@@ -31,7 +31,6 @@
 *.zip
 *.tar.gz
 *.rar
-<<<<<<< HEAD
 **/out/
 hs_err_pid*
 *~
